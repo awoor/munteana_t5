@@ -1,0 +1,20 @@
+rey=rey=rey
+persoana=persoana=om
+dar=dar=cadou
+Tiras=Tiras=Tiras
+lac=lac=lac
+as=as=as
+om=om=persoana fiinta
+cadou=cadou=dar
+creatura=creatura=individ om
+existenta=existenta=viata
+blancos=blancos=blancos
+individ=individ=persoana
+rege=rege=rege
+animal=animal=creatura dobitoc fiinta
+dobitoc=dobitoc=animal
+viata=viata=trai
+cneaz =cneaz =cneaz 
+trai=trai=existenta
+fiinta=fiinta=animal viata om
+pamant=pamant=teritoriu

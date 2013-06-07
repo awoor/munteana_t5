@@ -1,0 +1,8 @@
+rey=rey=rey
+Tiras=Tiras=Nistru
+lac=lac=iaz
+as=as=tuz
+om=om=
+blancos=blancos=albii
+rege=rege=domnitor cneaz voievod
+cneaz =cneaz =domnitor rege

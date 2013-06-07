@@ -1,0 +1,10 @@
+om=persoana fiinta
+fiinta=animal viata om
+viata=trai
+trai=existenta
+animal=creatura dobitoc fiinta
+creatura=individ om
+dobitoc=animal
+individ=persoana
+persoana=om
+existenta=viata

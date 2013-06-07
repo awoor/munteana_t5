@@ -1,0 +1,10 @@
+persoana=om figura fata
+om=persoana fiinta
+creatura=individ om
+individ=persoana
+lala=adsasdsd
+animal=creatura dobitoc faptura fiinta
+dobitoc=animal
+viata=trai
+trai=existenta
+fiinta=animal viata om
